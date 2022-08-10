@@ -1,0 +1,107 @@
+<head>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/default.css">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Merriweather" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.0.0.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/3044a9eb36.js"></script>
+    <script>
+        // When the user scrolls the page, execute myFunction 
+window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.width = scrolled + "%";
+}
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118011177-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118011177-1');
+</script>
+    <script>
+        $(document).ready(function(){
+          // Add smooth scrolling to all links
+          $("a").on('click', function(event) {
+
+            // Make sure this.hash has a value before overriding default behavior
+            if (this.hash !== "") {
+              // Prevent default anchor click behavior
+              event.preventDefault();
+
+              // Store hash
+              var hash = this.hash;
+
+              // Using jQuery's animate() method to add smooth page scroll
+              // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+              $('html, body').animate({
+                scrollTop: $(hash).offset().top
+              }, 800, function(){
+
+                // Add hash (#) to URL when done scrolling (default click behavior)
+                window.location.hash = hash;
+              });
+            } // End if
+          });
+        });
+</script>
+<style>
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  header.img {
+    left: 50%;
+  }
+}    
+</style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Landon J. Getz</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+        <a class="nav-link" href="#about">About Me</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="#CV">Curriculum Vitae</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="https://landongetz.github.io/blog">Blog</a>
+      </li>
+
+    </ul>
+  </div>
+</nav>
+    <div class="col-sm">
+        <img id="header.img" src="/images/IMG_2659.jpg" class="img-fluid rounded center" style="max-height: 474px;margin-top: 20px;margin-bottom:20px; margin-left: auto; margin-right: auto; display: block;">
+        </div>
+          <div class="col-sm" id="about">
+<h1><hr><b>About Me</b><hr></h1>
+    <h4><a href="http://www.vanier.gc.ca/en/home-accueil.html" target="_blank">Vanier Scholar</a> & <a href="http://www.killamlaureates.ca/" target="_blank">Killam Laureate</a></h4>
+              <h4>Landon Getz is a Ph.D. candidate studying <i>Vibrio parahaemolyticus</i> environmental survival and host-pathogen interactions in the Thomas lab at Dalhousie University. Landon is also an award-winning post-secondary educator, with significant experience teaching undergraduate biology, microbiology, and chemistry courses. Landon is an LGBTQ+ advocate and has worked to enhance the equity, diveristy, and inclusion of Science, Technology, Engineering, and Mathematics (STEM) through <a href="http://www.qatcanstem.ca" target="_blank">Queer Atlantic Canadian STEM</a>. Landon is a member of the inaugural Youth Council of the Chief Science Advisor of Canada.</h4>
+<div class="col-sm" id="contactbuttondiv" style="display: grid;">
+    <p id="contactbuttons"><span id="icon" class="fas fa-paper-plane"></span> Email:<a href="mailto:landon.getz@dal.ca"> landon.getz@dal.ca</a></p>
+    <p id="contactbuttons"><i id="icon" class="fab fa-twitter-square fa-1x" aria-hidden="true"></i> Twitter: <a target="_blank" href="http://twitter.com/landongetz">@landongetz</a></p>
+    <p id="contactbuttons"><span id="icon" class="fab fa-linkedin-square"></span> <a href="https://www.linkedin.com/in/landon-getz-19a473111/">Linkedin</a></p>
+    <p id="contactbuttons"><span id="icon" class="fab fa-github-square"></span> <a href="https://www.github.com/LandonGetz">Github</a></p>
+    <p id="contactbuttons"><i id="icon" class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://scholar.google.ca/citations?user=cFMTBYMAAAAJ&hl=en&authuser=3">Google Scholar</a></p>
+        </div>
+    </div class="CV">
+    {{ content }}
+    </body>
+
