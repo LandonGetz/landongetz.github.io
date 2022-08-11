@@ -203,13 +203,13 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 ## <i class="fa-solid fa-chalkboard"></i> Teaching and Mentoring
 ----------------------
 
-**A Complete Teaching Dossier can be found [here](/documents/teachingdossier.pdf).**
+**A Complete Teaching Dossier can be found [here](/documents/teachingdossier.pdf){:target="_blank"}.**
 
-*   **Part-Time Academic, [BIOL3037: Life Rewritten](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=19585&entitytype=CID&entitycode=BIOL+3037), _Dalhousie University_**
+*   **Part-Time Academic, [BIOL3037: Life Rewritten](/documents/BIOL3037syllabus.pdf){:target="_blank"}, _Dalhousie University_**
     *   January 2022 to May 2022
     *   Lecturing for the ethics portion of BIOL3037, as well as contributing to worksheet and exam questions, and coordinating guest speakers and the gene drive simulation from Harvard's Scientific Citizenship Initiative with Dr. Natalie Kofler
     *   More information on the class can be found below
-*   Graduate Student Teaching Assistant, [BIOL3037: Life Rewritten](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=19585&entitytype=CID&entitycode=BIOL+3037), _Dalhousie University_
+*   Graduate Student Teaching Assistant, [BIOL3037: Life Rewritten](/documents/BIOL30372020.pdf){:target="_blank"}, _Dalhousie University_
     *   January 2020 to May 2021
     *   Teaching Assistant and Lecturer for an innovative new class which primarily involves **small group work** and departs from solely using traditonal lecture teaching. The class focuses on both the ethics and science of new gene editing technologies and synthetic biology.
     *   Duties include: Marking, Preparing and organizing peer feedback (using Excel, mail merge, and Microsoft Forms), develop course material as it pertains to the ethics of gene editing and gene editing technology, give integrative and discussion based lectures broadly focused on ethics foundations.
@@ -230,7 +230,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 *   Bioinformatics and Web Design Mentor, _Dalhousie IGEM 2017_
     *   January 2017 to January 2018.
     *   Be a graduate student resource for the Bioinformatics and Web Design teams.
-    *   Current _Dalhousie iGEM 2017_ Website can be found [here.](http://2017.igem.org/Team:Dalhousie)
+    *   Current _Dalhousie iGEM 2017_ Website can be found [here.](http://2017.igem.org/Team:Dalhousie){:target="_blank"}
 *   Chemistry Resource Center Assistant, _Dalhousie University_
     *   September 2015 to December 2016.
     *   Be available throughout the week to answer questions about First Year Chemistry assignments and lecture material.
@@ -245,19 +245,19 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 ## Knowledge Translation
 ---------------------
 
-*   **The National Post - [Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate](https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate)**
-*   **[CBC Nova Scotia's Information Morning Radio Show](https://www.cbc.ca/listen/shows/information-morning-ns/) \- _On the Moratorium on Germline Genome Editing_ with Portia Clarke, live in studio.**
+*   **The National Post - [Breakthrough or a threat? Research on genetics of same-sex behaviour ignites ethical debate](https://nationalpost.com/health/breakthrough-or-a-threat-research-on-genetics-of-same-sex-behaviour-ignites-ethical-debate){:target="_blank"}**
+*   **[CBC Nova Scotia's Information Morning Radio Show](https://www.cbc.ca/listen/shows/information-morning-ns/){:target="_blank"} \- _On the Moratorium on Germline Genome Editing_ with Portia Clarke, live in studio.**
 
 *   Discussed the 2019 call for moratorium on germline genome editing and the need for _Slow CRISPR Science_
 
-*   **[Science Slam Halifax Participant](https://twitter.com/scislamhfx?lang=en)**
+*   **[Science Slam Halifax Participant](https://twitter.com/scislamhfx?lang=en){:target="_blank"}**
     *   Discussed a subset of my work, marine nutrient cycles, to a lay audience at a Grade 8 education level
     *   Platform was a 5 minute talk, no powerpoint slides.
-*   **["Ask a Scientist"](https://www.dal.ca/news/2018/06/06/curious--just-ask-a-scientist.html) Campaign, _Dalhousie Faculty of Science_**
+*   **["Ask a Scientist"](https://www.dal.ca/news/2018/06/06/curious--just-ask-a-scientist.html){:target="_blank"} Campaign, _Dalhousie Faculty of Science_**
     *   Discussed LGBTQ+ Science, Technology, Engineering, Maths Day at Halifax Pride along with other LGBTQ+ Scientists at Dalhousie
     *   Discussed Environmental Microbiology and Bacteriology to the community crowd.
 *   **LGBTQ+ Science, Technology, Engineering, Maths Day Discussion on _Information Morning_ with Portia Clark**
-    *   [Information Morning](https://www.cbc.ca/listen/shows/information-morning-ns/) is the public broadcasters (CBC) local morning radio show in Nova Scotia
+    *   [Information Morning](https://www.cbc.ca/listen/shows/information-morning-ns/){:target="_blank"} is the public broadcasters (CBC) local morning radio show in Nova Scotia
     *   Discussed the importance of inclusion and diversity in STEM, along with LGBTQ+ STEM Day.
 
   
@@ -351,10 +351,10 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
     *   Sept 2017 to Sept 2019
     *   Act as a liason between graduate/undergraduate students and the committee
     *   Provide feedback to the committee based on my experience as an undergraduate student at Dalhousie Univeristy
-*   External Coordinator, _[Dalhousie Urban Garden Society](http://dalurbangarden.com)_
+*   External Coordinator, *Dalhousie Urban Garden Society*
     *   May 2016 to May 2019
     *   Act as a liaison between Dalhousie Urban Garden Society with community food initiatives and groups, prepare newsletters and social media posts and take charge of regular garden maintenance
-*   House Co-President, _Howe Hall Residence Council_
+*   House Co-President, *Howe Hall Residence Council*
     *   September 2013 to April 2014
     *   Alongside the co-president, put together a house council and hold weekly house council meetings, attend monthly residence council meetings, plan house events, and support the rest of council in community initiatives.
 

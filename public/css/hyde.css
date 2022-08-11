@@ -189,7 +189,19 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
+/*
+ * Header CSS Content
+ */
+ #header-text {
+  padding: 0;
+  margin: 0;
+ }
+ #social-icon {
+    padding-top: 1em;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    font-size:2rem;
+ }
 
 /*
  * Themes

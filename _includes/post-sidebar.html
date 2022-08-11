@@ -1,0 +1,27 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div>
+      <img src="{{ site.baseurl }}assets/images/IMG_2659.jpg">
+    </div>
+    <div class="sidebar-about">
+      <h1>
+          {{ site.title }}
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+        <hr>
+	<a class="sidebar-nav-item" href="{{ site.url }}/blog/index.html">Return to Blog Home</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      <span class="sidebar-nav-date">Last Updated {{ site.version }}</span>
+    </nav>
+
+    <p class="sidebar-nav-copyright">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>
