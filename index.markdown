@@ -17,33 +17,38 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ## <i class="fa-solid fa-users-rectangle"></i> Affiliations
 ---------
+**PhD Candidate** All but Degree, Department of Microbiology and Immunology, Faculty of Medicine, *Dalhousie University*
 
 **Postdoctoral Research Associate**, Department of Biochemistry, Faculty of Medicine, *University of Toronto*
 *   Studying Phage-*Vibrio* interactions in the laboratory of [Dr. Karen Maxwell](http://individual.utoronto.ca/maxwell_lab/)
-
+*   Effective September 05/2022
 
 ## <i class="fa-solid fa-school"></i> Education
 ---------
 
-*   **Ph.D Microbiology and Immunology, _Dalhousie University_**
-    *   Graduated 2022
-    *   2019 Vanier Scholar and 2019 Killam Laureate
-    *   Thesis title: Genome-Wide Investigation of *Vibrio parahaemolyticus* Type III Secretion System-1 Regulation and Chitin Metabolism
-*   **Advanced Bacterial Genetics Course, _Cold Spring Harbor Laboratory_**
-    *   Course Taught by: Drs. Andrew Camilli, Angelika Gründling, and Lionello Bossi.
-    *   June 4th, 2019 to June 24th, 2019
-    *   Topics covered include Transposon Sequencing, CRISPR/Cas, and Lambda-red recombineering in _Vibrio cholerae_, _Salmonella enterica_, and _Staphylococcus aureus_, among other techniques.
-*   **B.Sc. First Class Honours in Microbiology and Immunology, _Dalhousie University_**
-    *   Graduated June 2017
-    *   Microbiology and Immunology Award for Excellence in Undergraduate Honours Research
-    *   Cumulative GPA: 3.93
-    *   Awarded Dean's List: Fall 2013, Fall/Winter 2014/2015, Fall/Winter 2015/2016, Fall/Winter 2016/2017
-*   **Certificate in Genetics, _Dalhousie University_**
-    *   Received June 2017
-*   **High School Diploma, _Medicine Hat High School_**
-    *   Received June 2013
-    *   First Class Honours
-    *   Awarded Alexander Rutherford Scholarship - $2,500 Award
+**Ph.D Microbiology and Immunology, _Dalhousie University_**
+*   Graduated 2022
+*   2019 Vanier Scholar and 2019 Killam Laureate
+*   Thesis title: Genome-Wide Investigation of *Vibrio parahaemolyticus* Type III Secretion System-1 Regulation and Chitin Metabolism
+
+**Advanced Bacterial Genetics Course, _Cold Spring Harbor Laboratory_**
+*   Course Taught by: Drs. Andrew Camilli, Angelika Gründling, and Lionello Bossi.
+*   June 4th, 2019 to June 24th, 2019
+*   Topics covered include Transposon Sequencing, CRISPR/Cas, and Lambda-red recombineering in _Vibrio cholerae_, _Salmonella enterica_, and _Staphylococcus aureus_, among other techniques.
+
+**B.Sc. First Class Honours in Microbiology and Immunology, _Dalhousie University_**
+*   Graduated June 2017
+*   Microbiology and Immunology Award for Excellence in Undergraduate Honours Research
+*   Cumulative GPA: 3.93
+*   Awarded Dean's List: Fall 2013, Fall/Winter 2014/2015, Fall/Winter 2015/2016, Fall/Winter 2016/2017
+
+**Certificate in Genetics, _Dalhousie University_**
+*   Received June 2017
+
+**High School Diploma, _Medicine Hat High School_**
+*   Received June 2013
+*   First Class Honours
+*   Awarded Alexander Rutherford Scholarship - $2,500 Award
 
   
 
@@ -54,52 +59,55 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 **<sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.**
 
-*   **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2022). Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in _Vibrio parahaemolyticus_. Under Revision at Nucleic Acids Research.
-*   Kratzer, K.\*, **Getz, L.J.\***, Peterlini, T, Masson<sup>#</sup>, J-Y, Dellaire, G<sup>#</sup>. (2021) ["Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application."](https://link.springer.com/article/10.1007/s00439-021-02272-5) _Human Genetics_. DOI: [10.1007/s00439-021-02272-5](https://doi.org/10.1007/s00439-021-02272-5)
-*   **Getz, L.J.**, Dellaire, G.<sup>#</sup> (2020). ["Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."](https://link.springer.com/article/10.1007/s11948-020-00226-0) _Science and Engineering Ethics_. DOI: [10.1007/s11948-020-00226-0](https://doi.org/10.1007/s11948-020-00226-0).
-*   **Getz, L. J.**, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). ["Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."](https://jb.asm.org/content/201/19/e00205-19) _Journal of Bacteriology_. DOI: [10.1128/JB.00205-19](https://doi.org/10.1128/JB.00205-19)
-*   Thornbury, M.\*, Sicheri, J.\*, Slaine, P.D., **Getz, L. J.**, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). ["Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221) _PLoS One_. DOI: [https://doi.org/10.1371/journal.pone.0209221](https://doi.org/10.1371/journal.pone.0209221).
-*   **Getz, L.J.<sup>#</sup>**, Dellaire, G.<sup>#</sup> (2018). ["Angels and Devils: Dual-Use in Biotechnology."](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5) _Trends in Biotechnology_. DOI: [https://doi.org/10.1016/j.tibtech.2018.07.016](https://doi.org/10.1016/j.tibtech.2018.07.016).
-*   Runté, C., Jain, U., **Getz, L.J.**, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.<sup>#</sup> (2018). ["Tandem tyrosine phosphosites in the enteropathogenic _Escherichia coli_ chaperone CesT are required for differential type III effector translocation and virulence."](http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full) _Molecular Microbiology_. DOI: [https://doi.org/10.1111/mmi.13948](https://doi.org/10.1111/mmi.13948).
-*   **Getz, L.J.,** Thomas, N.A.#<sup>#</sup>(2018) ["The Transcriptional Regulator HlyU is a Positive Regulator for Expression of _exsA_ Leading to Type III Secretion System-1 Activation in _Vibrio parahaemolyticus_"](http://jb.asm.org/content/200/15/e00653-17.abstract) _Journal of Bacteriology_. DOI: [https://doi.org/10.1128/JB.00653-17](https://doi.org/10.1128/JB.00653-17).
-*   **Getz, L.J.\***, Finlayson-Trick, E.C.L.\*, Slaine, P.D.\*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.<sup>#</sup> (2017). ["Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404) _PLoS One_. DOI: [https://doi.org/10.1371/journal.pone.0189404](https://doi.org/10.1371/journal.pone.0189404).
+0.   **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2022). Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in _Vibrio parahaemolyticus_. Under Revision at Nucleic Acids Research.
+0.   Kratzer, K.\*, **Getz, L.J.\***, Peterlini, T, Masson<sup>#</sup>, J-Y, Dellaire, G<sup>#</sup>. (2021) ["Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application."](https://link.springer.com/article/10.1007/s00439-021-02272-5) _Human Genetics_. DOI: [10.1007/s00439-021-02272-5](https://doi.org/10.1007/s00439-021-02272-5)
+0.   **Getz, L.J.**, Dellaire, G.<sup>#</sup> (2020). ["Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."](https://link.springer.com/article/10.1007/s11948-020-00226-0) _Science and Engineering Ethics_. DOI: [10.1007/s11948-020-00226-0](https://doi.org/10.1007/s11948-020-00226-0).
+0.   **Getz, L. J.**, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). ["Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."](https://jb.asm.org/content/201/19/e00205-19) _Journal of Bacteriology_. DOI: [10.1128/JB.00205-19](https://doi.org/10.1128/JB.00205-19)
+0.   Thornbury, M.\*, Sicheri, J.\*, Slaine, P.D., **Getz, L. J.**, Finlayson-Trick, E.C.L., Cook, J., Guinard, C., Boudreau, N., Jakeman, D., Rohde, J.R., McCormick, C.<sup>#</sup> (2018). ["Characterization of novel lignocellulose-degrading enzymes from the porcupine microbiome using synthetic metagenomics"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209221) _PLoS One_. DOI: [https://doi.org/10.1371/journal.pone.0209221](https://doi.org/10.1371/journal.pone.0209221).
+0.   **Getz, L.J.<sup>#</sup>**, Dellaire, G.<sup>#</sup> (2018). ["Angels and Devils: Dual-Use in Biotechnology."](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30207-5) _Trends in Biotechnology_. DOI: [https://doi.org/10.1016/j.tibtech.2018.07.016](https://doi.org/10.1016/j.tibtech.2018.07.016).
+0.   Runté, C., Jain, U., **Getz, L.J.**, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A.<sup>#</sup> (2018). ["Tandem tyrosine phosphosites in the enteropathogenic _Escherichia coli_ chaperone CesT are required for differential type III effector translocation and virulence."](http://onlinelibrary.wiley.com/doi/10.1111/mmi.13948/full) _Molecular Microbiology_. DOI: [https://doi.org/10.1111/mmi.13948](https://doi.org/10.1111/mmi.13948).
+0.   **Getz, L.J.,** Thomas, N.A.#<sup>#</sup>(2018) ["The Transcriptional Regulator HlyU is a Positive Regulator for Expression of _exsA_ Leading to Type III Secretion System-1 Activation in _Vibrio parahaemolyticus_"](http://jb.asm.org/content/200/15/e00653-17.abstract) _Journal of Bacteriology_. DOI: [https://doi.org/10.1128/JB.00653-17](https://doi.org/10.1128/JB.00653-17).
+0.   **Getz, L.J.\***, Finlayson-Trick, E.C.L.\*, Slaine, P.D.\*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.<sup>#</sup> (2017). ["Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404) _PLoS One_. DOI: [https://doi.org/10.1371/journal.pone.0189404](https://doi.org/10.1371/journal.pone.0189404).
+{: reversed="reversed"}
 
 ### **Commentaries:**
 
-*   Baylis, F., **Getz, L.J.** (2021). [Challenge studies for COVID-19: Now is still not the time](https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/)_[JME Blog](https://blogs.bmj.com/medical-ethics/)_
-*   **Getz, L.J.,**, Baylis, F. (2021). [Challenge studies for COVID-19: Now is not the time.](https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/)_[JME Blog](https://blogs.bmj.com/medical-ethics/)_
-*   **Getz, L.J.**, Baylis, F. (2020). [Canada should reject the idea of deliberately infecting vaccine volunteers.](https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/) _[PolicyOptions.ca](https://policyoptions.irpp.org/)_
-*   Baylis, F., **Getz, L.J.** (2020). [Why federal government should reject human challenge trials for COVID-19 vaccine.](https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713) _[CBC Opinion](https://www.cbc.ca/news/opinion)_.
-*   Qaiser, F., Morriseau, T., Rilling, M., Cartile, A., Sung, M., **Getz, L.J.**, Boulanger, M-E. (2020). [Envisioning A Post-Pandemic Future in the Canadian Science Community: A Youth Perspective.](https://sciencepolicy.ca/posts/envisioning-a-post-pandemic-future-in-the-canadian-science-community-a-youth-perspective/) _[Canadian Science Policy Conference 2020](https://sciencepolicy.ca/posts/category/editorials/2020-conference-editorials/)_
-*   Baylis, F., **Getz, L.J.** (2020). [Rush to risky chellenge trials is unethical](https://healthydebate.ca/opinions/risky-challenge-trials-unethical), _[HealthyDebate.ca](https://healthydebate.ca/)_.
-*   **Getz, L.J.** (2020). [Rushing coronavirus vaccines and treatments could do more harm than good](https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449), _[TheConversation.ca](https://theconversation.com/ca), Republished in [Everything Zoomer](https://www.everythingzoomer.com/), and [Dal News](www.dal.ca/news)_.
-*   Kofler, N., **Getz, L.J.**, Baylis, F., Dellaire, G. (2019). [Genetically modifying mosquitoes to control the spread of disease carries unknown risks](https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862), _[TheConversation.ca](https://theconversation.com/ca), republished in [Salon](https://www.salon.com/2019/10/06/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks_partner/), [HalifaxToday.ca](https://www.halifaxtoday.ca/local-news/decision-to-deploy-genetically-modified-mosquitoes-not-made-responsibly-researchers-say-1743841), [SaltWire Newspapers](https://www.thechronicleherald.ca/opinion/local-perspectives/commentary-genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-359367/), and [Gannett Newspapers](https://www.ocala.com/news/20191004/genetically-modifying-mosquitoes-to-control-spread-of-disease-carries-unknown-risks/1)._
-*   **Getz, L.J.**, Dellaire, G. (2019). [Moratorium on Human Genome Editing: Time to Get It Right](https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/), _[The Hastings Center Forum Blog](https://www.thehastingscenter.org/publications-resources/forum/)._
-*   **Getz, L.J.**, Dellaire, G. (2019). [CRISPR gene editing: Why we need Slow Science](https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639), _[The Conversation: Canada Edition](https://theconversation.com/ca)_.
-*   **Getz, L.J.** (2019).[The "Value" of Consumer DNA Sequencing.](https://impactethics.ca/2019/02/28/the-value-of-consumer-dna-sequencing/), _[Impact Ethics](http://www.impactethics.ca)_, [Novel Tech Ethics,](https://www.dal.ca/sites/noveltechethics.html) Halifax, NS.
-*   **Getz, L.J.**, Dellaire, G., Baylis, F. (2018). ["Jiankui He: A Sorry Tale of High-Stakes Science"](https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/), _[The Hastings Center Forum Blog](https://www.thehastingscenter.org/publications-resources/forum/)._
-*   Baylis, F., Dellaire, G., **Getz, L.J.** (2018). ["Why we are not ready for genetically designed babies"](https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756), _[The Conversation: Canada Edition](https://theconversation.com/ca)._ **Reprinted in:** [The National Post](https://nationalpost.com/pmn/news-pmn/why-we-are-not-ready-for-genetically-designed-babies) and the [Halifax Chronicle Herald](https://www.thechronicleherald.ca/opinion/opinion-why-we-are-not-ready-for-genetically-designed-babies-263999/).
-*   **Getz, L.J.** (2018). ["Thicker Than Water: Slow Movement on Blood Policy"](https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/), _[Impact Ethics](http://www.impactethics.ca)_, [Novel Tech Ethics,](https://www.dal.ca/sites/noveltechethics.html) Halifax, NS.
-*   **Getz, L.J.** (2018). ["The Privacy Implications of Human DNA Sequencing"](https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/), _[Impact Ethics](http://www.impactethics.ca)_, [Novel Tech Ethics,](https://www.dal.ca/sites/noveltechethics.html) Halifax, NS.
-*   **Getz, L.J.** (2017). ["A Reflection on Blood Donation Policy in Canada"](https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/), _[Impact Ethics](http://www.impactethics.ca)_, [Novel Tech Ethics,](https://www.dal.ca/sites/noveltechethics.html) Halifax, NS.
+0.   Baylis, F., **Getz, L.J.** (2021). [Challenge studies for COVID-19: Now is still not the time](https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/)_[JME Blog](https://blogs.bmj.com/medical-ethics/)_
+0.   **Getz, L.J.,**, Baylis, F. (2021). [Challenge studies for COVID-19: Now is not the time.](https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/)_[JME Blog](https://blogs.bmj.com/medical-ethics/)_
+0.   **Getz, L.J.**, Baylis, F. (2020). [Canada should reject the idea of deliberately infecting vaccine volunteers.](https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/) _[PolicyOptions.ca](https://policyoptions.irpp.org/)_
+0.   Baylis, F., **Getz, L.J.** (2020). [Why federal government should reject human challenge trials for COVID-19 vaccine.](https://www.cbc.ca/news/opinion/opinion-covid-vaccine-human-challenge-trials-1.5790713) _[CBC Opinion](https://www.cbc.ca/news/opinion)_.
+0.   Qaiser, F., Morriseau, T., Rilling, M., Cartile, A., Sung, M., **Getz, L.J.**, Boulanger, M-E. (2020). [Envisioning A Post-Pandemic Future in the Canadian Science Community: A Youth Perspective.](https://sciencepolicy.ca/posts/envisioning-a-post-pandemic-future-in-the-canadian-science-community-a-youth-perspective/) _[Canadian Science Policy Conference 2020](https://sciencepolicy.ca/posts/category/editorials/2020-conference-editorials/)_
+0.   Baylis, F., **Getz, L.J.** (2020). [Rush to risky chellenge trials is unethical](https://healthydebate.ca/opinions/risky-challenge-trials-unethical), _[HealthyDebate.ca](https://healthydebate.ca/)_.
+0.   **Getz, L.J.** (2020). [Rushing coronavirus vaccines and treatments could do more harm than good](https://theconversation.com/rushing-coronavirus-vaccines-and-treatments-could-do-more-harm-than-good-136449), _[TheConversation.ca](https://theconversation.com/ca), Republished in [Everything Zoomer](https://www.everythingzoomer.com/), and [Dal News](www.dal.ca/news)_.
+0.   Kofler, N., **Getz, L.J.**, Baylis, F., Dellaire, G. (2019). [Genetically modifying mosquitoes to control the spread of disease carries unknown risks](https://theconversation.com/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-123862), _[TheConversation.ca](https://theconversation.com/ca), republished in [Salon](https://www.salon.com/2019/10/06/genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks_partner/), [HalifaxToday.ca](https://www.halifaxtoday.ca/local-news/decision-to-deploy-genetically-modified-mosquitoes-not-made-responsibly-researchers-say-1743841), [SaltWire Newspapers](https://www.thechronicleherald.ca/opinion/local-perspectives/commentary-genetically-modifying-mosquitoes-to-control-the-spread-of-disease-carries-unknown-risks-359367/), and [Gannett Newspapers](https://www.ocala.com/news/20191004/genetically-modifying-mosquitoes-to-control-spread-of-disease-carries-unknown-risks/1)._
+0.   **Getz, L.J.**, Dellaire, G. (2019). [Moratorium on Human Genome Editing: Time to Get It Right](https://www.thehastingscenter.org/moratorium-on-human-genome-editing-time-to-get-it-right/), _[The Hastings Center Forum Blog](https://www.thehastingscenter.org/publications-resources/forum/)._
+0.   **Getz, L.J.**, Dellaire, G. (2019). [CRISPR gene editing: Why we need Slow Science](https://theconversation.com/crispr-gene-editing-why-we-need-slow-science-113639), _[The Conversation: Canada Edition](https://theconversation.com/ca)_.
+0.   **Getz, L.J.** (2019).[The "Value" of Consumer DNA Sequencing.](https://impactethics.ca/2019/02/28/the-value-of-consumer-dna-sequencing/), _[Impact Ethics](http://www.impactethics.ca)_, [Novel Tech Ethics,](https://www.dal.ca/sites/noveltechethics.html) Halifax, NS.
+0.   **Getz, L.J.**, Dellaire, G., Baylis, F. (2018). ["Jiankui He: A Sorry Tale of High-Stakes Science"](https://www.thehastingscenter.org/jiankui-sorry-tale-high-stakes-science/), _[The Hastings Center Forum Blog](https://www.thehastingscenter.org/publications-resources/forum/)._
+0.   Baylis, F., Dellaire, G., **Getz, L.J.** (2018). ["Why we are not ready for genetically designed babies"](https://theconversation.com/why-we-are-not-ready-for-genetically-designed-babies-107756), _[The Conversation: Canada Edition](https://theconversation.com/ca)._ **Reprinted in:** [The National Post](https://nationalpost.com/pmn/news-pmn/why-we-are-not-ready-for-genetically-designed-babies) and the [Halifax Chronicle Herald](https://www.thechronicleherald.ca/opinion/opinion-why-we-are-not-ready-for-genetically-designed-babies-263999/).
+0.   **Getz, L.J.** (2018). ["Thicker Than Water: Slow Movement on Blood Policy"](https://impactethics.ca/2018/10/26/thicker-than-water-slow-movement-on-blood-policy/), _[Impact Ethics](http://www.impactethics.ca)_, [Novel Tech Ethics,](https://www.dal.ca/sites/noveltechethics.html) Halifax, NS.
+0.   **Getz, L.J.** (2018). ["The Privacy Implications of Human DNA Sequencing"](https://impactethics.ca/2018/05/11/the-privacy-implications-of-human-dna-sequencing/), _[Impact Ethics](http://www.impactethics.ca)_, [Novel Tech Ethics,](https://www.dal.ca/sites/noveltechethics.html) Halifax, NS.
+0.   **Getz, L.J.** (2017). ["A Reflection on Blood Donation Policy in Canada"](https://impactethics.ca/2017/08/24/a-reflection-on-blood-donation-policy-in-canada/), _[Impact Ethics](http://www.impactethics.ca)_, [Novel Tech Ethics,](https://www.dal.ca/sites/noveltechethics.html) Halifax, NS.
+{: reversed="reversed"}
 
 ###  **Pre-Prints:**
 
-*   **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.# (2022). [Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in _Vibrio parahaemolyticus_](https://www.biorxiv.org/content/10.1101/2022.03.07.483294v1). BioRxiv.
-*   \*Thornbury, M., \*Sicheri, J., Guinard, C,. Mahoney, D., Routledge, F,. Curry, M., Elaghil, M., Boudreau, N., Tsai, A., Slaine P., Finlayson-Trick, E.C.L., **Getz, L.J.**, Cook, J., Rohde, J.R., McCormick, C. [“Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome.”](https://www.biorxiv.org/content/early/2018/03/27/288985) BioRxiv.
-*   Runté, C., Jain, U., **Getz, L.J.**, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) ["Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."](https://www.biorxiv.org/content/early/2018/02/22/270066) _BioRxiv_.
+0.   **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.# (2022). [Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in _Vibrio parahaemolyticus_](https://www.biorxiv.org/content/10.1101/2022.03.07.483294v1). BioRxiv.
+0.   \*Thornbury, M., \*Sicheri, J., Guinard, C,. Mahoney, D., Routledge, F,. Curry, M., Elaghil, M., Boudreau, N., Tsai, A., Slaine P., Finlayson-Trick, E.C.L., **Getz, L.J.**, Cook, J., Rohde, J.R., McCormick, C. [“Discovery and Characterization of Novel Lignocellulose-Degrading Enzymes from the Porcupine Microbiome.”](https://www.biorxiv.org/content/early/2018/03/27/288985) BioRxiv.
+0.   Runté, C., Jain, U., **Getz, L.J.**, Secord, S., Kuwae, A., Abe, A., Leblanc, J., Stadnyk, A.W., Kaper, J.B., Hansen, A.M., Thomas, N.A. (2018) ["Tandem tyrosine residues in the EPEC multicargo chaperone CesT support differential type III effector translocation and early host colonization."](https://www.biorxiv.org/content/early/2018/02/22/270066) _BioRxiv_.
+{: reversed="reversed"}
 
 ###  **Abstracts:**
 
-*   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the exsA promoter in _Vibrio parahaemolyticus_, Genomes to Biology: the 8th International Conference on the Biology of _Vibrios_, _McGill University_, Montreal, QC. - November 2019
-*   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). [A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in _Vibrio parahaemolyticus_](/documents/csm-2019-full_program.pdf), The 69th Annual Conference of the Canadian Society of Microbiologists, _Université de Sherbrooke_, Sherbrooke, QC. - June 2019
-*   **Getz, L.J.**, Thomas, N.A. (2018). [Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - _Vibrio parahaemolyticus_ - Regulates Virulence](https://lgbtstem.wordpress.com/lgbt-steminar-2019/), LGBTSTEMinar 2019, _Institute of Physics_, London, UK. - January 2019
-*   **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, _Dalhousie University_, Halifax, NS. - May 2018
-*   **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). [Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing](http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf), 23rd Annual Infectious Disesase Research Day, _Dalhousie University_, Halifax, NS. - Apr 2018
-*   **Getz, L.J.**, Thomas, N.A. (2017). HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator _exsA_, _ASM Vibrio2017: The Biology of Vibrios_, Chicago, IL. - November 2017
-*   **Getz, L.J.**, Thomas, N.A. (2017). [Discovery of a Genetic Switch in _Vibrio parahaemolyticus_ That Contributes to Host Cell Death During Infection](http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf), 22nd Annual Infectious Disease Research Day, _Dalhousie University_, Halifax, NS. - March 2017
-*   **Getz, L.J.**, Finlayson-Trick, E.C.L.\*, Mostafa Hagar\*, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.[A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform](http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf), Giant Jamboree Abstract Guide, _iGEM Giant Jamboree_, Boston, MA. - October 2016
-  
+0.   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the exsA promoter in _Vibrio parahaemolyticus_, Genomes to Biology: the 8th International Conference on the Biology of _Vibrios_, _McGill University_, Montreal, QC. - November 2019
+0.   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). [A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in _Vibrio parahaemolyticus_](/documents/csm-2019-full_program.pdf), The 69th Annual Conference of the Canadian Society of Microbiologists, _Université de Sherbrooke_, Sherbrooke, QC. - June 2019
+0.   **Getz, L.J.**, Thomas, N.A. (2018). [Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - _Vibrio parahaemolyticus_ - Regulates Virulence](https://lgbtstem.wordpress.com/lgbt-steminar-2019/), LGBTSTEMinar 2019, _Institute of Physics_, London, UK. - January 2019
+0.   **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, _Dalhousie University_, Halifax, NS. - May 2018
+0.   **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). [Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing](http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf), 23rd Annual Infectious Disesase Research Day, _Dalhousie University_, Halifax, NS. - Apr 2018
+0.   **Getz, L.J.**, Thomas, N.A. (2017). HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator _exsA_, _ASM Vibrio2017: The Biology of Vibrios_, Chicago, IL. - November 2017
+0.   **Getz, L.J.**, Thomas, N.A. (2017). [Discovery of a Genetic Switch in _Vibrio parahaemolyticus_ That Contributes to Host Cell Death During Infection](http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf), 22nd Annual Infectious Disease Research Day, _Dalhousie University_, Halifax, NS. - March 2017
+0.   **Getz, L.J.**, Finlayson-Trick, E.C.L.\*, Mostafa Hagar\*, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.[A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform](http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf), Giant Jamboree Abstract Guide, _iGEM Giant Jamboree_, Boston, MA. - October 2016
+{: reversed="reversed"}
 
 ## <i class="fa-solid fa-person-chalkboard"></i> Invited Talks
 --------
@@ -131,73 +139,73 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 **For Posters: \*Presenting Author**
 
-*   Genomes to Biology: The 8th International Conference on the Biology of _Vibrios_, _McGill University_, Montreal, QC - November 2019
+0.  Genomes to Biology: The 8th International Conference on the Biology of _Vibrios_, _McGill University_, Montreal, QC - November 2019
     *   Type: Oral Presentation
     *   Title: Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the _exsA_ promoter in _Vibrio parahaemolyticus_
     *   **Awarded a People's Choice Award by the Canadian Society of Microbiologists.**
 
-*   [Centre for Comparative Genomics and Evolutionary Bioinformatics](https://icgenomics.ca/) Research Retreat, _Dalhousie University_, Halifax, NS - November 2019
+0.  [Centre for Comparative Genomics and Evolutionary Bioinformatics](https://icgenomics.ca/) Research Retreat, _Dalhousie University_, Halifax, NS - November 2019
     *   Authors: **Landon J. Getz\***, Justin Brown, Nikhil Thomas
     *   Type: Poster Presentation
     *   Title:Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the _exsA_ promoter in _Vibrio parahaemolyticus_
 
-*   69th Annual Conference of the Canadian Society of Microbiologists, _Université de Sherbrooke_, Montreal, QC - June 2019
+0.  69th Annual Conference of the Canadian Society of Microbiologists, _Université de Sherbrooke_, Montreal, QC - June 2019
     *   Authors: **Landon J. Getz**, Justin Brown, Nikhil Thomas\*
     *   Type: Poster Presentation
     *   Title: A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in _Vibrio parahaemolyticus_
 
-*   Professional Research and Education Program Graduate Student Research Day, _Dalhousie University_, Halifax, NS. - May 2019
+0.  Professional Research and Education Program Graduate Student Research Day, _Dalhousie University_, Halifax, NS. - May 2019
     *   Type: Oral Presentation
     *   Title: A Regulator of Sugar Metabolism Implicated in the Secretion and Virulence of _Vibrio parahaemolyticus_
 
-*   Dalhousie Conference on University Teaching and Learning, _Dalhousie University_, Halifax, NS. - May 2019
+0.  Dalhousie Conference on University Teaching and Learning, _Dalhousie University_, Halifax, NS. - May 2019
     *   Type: Oral Presentation
     *   Title: Creating LGBTQ+ Inclusive Spaces for Equitable Active Learning
 
-*   Microbiology and Immunology Seminar Series, _Dalhousie University_, Halifax, NS. - January 2019
+0.  Microbiology and Immunology Seminar Series, _Dalhousie University_, Halifax, NS. - January 2019
     *   Type: Oral Presentation
     *   Title: The Multimodal Lifestyle of Marine _Vibrios_
 
-*   **LGBTSTEMinar 2019, _Institue of Physics_, London, UK - January 2019**
+0.  **LGBTSTEMinar 2019, _Institue of Physics_, London, UK - January 2019**
     *   Type: Oral Presentation
     *   Title: Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - _Vibrio parahaemolyticus - Regulates Virulence_
 
-*   PREP Graduate Student Research Day, _Dalhousie University_, Halifax, NS - May 2018
+0.  PREP Graduate Student Research Day, _Dalhousie University_, Halifax, NS - May 2018
     *   Type: Oral Presentation
     *   Title: Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing
 
-*   23rd Annual Infectious Disease Research Day, _Centre for Vaccinology_, Halifax, NS - April 2018
+0.  23rd Annual Infectious Disease Research Day, _Centre for Vaccinology_, Halifax, NS - April 2018
     *   Authors: **Landon J. Getz**\*, André Comeau, Morgan G. I. Langille, Nikhil Thomas
     *   Type: Poster Presentation
     *   Title: Linking Phenotype and Pathogen Genomics: TnSeq and Next Generation DNA Sequencing.
 
-*   Microbiology and Immunology Graduate Student Seminar, _Dalhousie University_, Halifax, NS - February 2018
+0.  Microbiology and Immunology Graduate Student Seminar, _Dalhousie University_, Halifax, NS - February 2018
     *   Type: Oral Presentation
     *   Title: _Vibrio parahaemolyticus_: A Versatile Pathogen Living a Dual-Lifestyle
 
-*   **ASM Vibrio2017, _American Society of Microbiology_, Chicago, IL - November 2017**
+0.  **ASM Vibrio2017, _American Society of Microbiology_, Chicago, IL - November 2017**
     *   Authors: **Landon J. Getz**\*, Nikhil Thomas
     *   Type: Poster Presentation
     *   Title: HlyU and H-NS act as a Genetic Switch for Transcriptional Control of the Type-III Secretion System I Master Regulator _exsA_
 
-*   22rd Annual Infectious Disease Research Day, _Dalhousie University_, Halifax, NS - April, 2017
+0.  22rd Annual Infectious Disease Research Day, _Dalhousie University_, Halifax, NS - April, 2017
     *   Authors: **Landon J. Getz**\*, Nikhil Thomas
     *   Type: Poster Presentation
     *   Title: Discovery of a Genetic Switch in _Vibrio parahaemolyticus_ that Contributes to Host Cell Death during Infection.
 
-*   2016 iGEM Giant Jamboree, _iGEM_, Boston, MA - October 2016
+0.  2016 iGEM Giant Jamboree, _iGEM_, Boston, MA - October 2016
     *   Authors: **Getz, L.J.\***, Finlayson-Trick, E.C.L.\*, Mostafa Hagar\*, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.
     *   Type: Poster Presentation
     *   Title: Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome
 
-*   2016 iGEM Giant Jamboree, _iGEM_, Boston, MA - October, 2016
+0.  2016 iGEM Giant Jamboree, _iGEM_, Boston, MA - October, 2016
     *   Type: Oral Presentation
     *   Title: Biofuel Production set to Spike: Identification of Biofuel Producing Enzymes in the Porcupine Microbiome
 
-*   Microbiology and Immunology Seminar Series, _Dalhousie University_, Halifax, NS - September 2016
+0.  Microbiology and Immunology Seminar Series, _Dalhousie University_, Halifax, NS - September 2016
     *   Type: Oral Presentation
     *   Title: State of the Union: iGEM Introduction
-
+{: reversed="reversed"}
   
 
 ## <i class="fa-solid fa-chalkboard"></i> Teaching and Mentoring

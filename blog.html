@@ -6,17 +6,13 @@ title: Blog
 	Commentary and Blog
 </h1>
 
-<p> Welcome to the blog! This is a collection of published commentaries (where reprinting is allowed) as well as a personal blog. It will be sporadically updated - or more regularly if the time and place are right - to share my thoughts and commentary on various issues related to science and ethics. 
-</p>
-<p>
-Enjoy the ramblings on!
+<p> This is a collection of published commentaries (where reprinting is allowed) as well as a personal blog. It will be sporadically updated - or more regularly if the time and place are right - to share my thoughts and commentary on various issues related to science and ethics. 
 </p>
 
-<ul>
+<div style="padding-left:5%;">
   {% for post in site.posts %}
-    <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <p> {{ post.excerpt }} </p>
-    </li>
+      <p style="margin-bottom:0;padding-left:1rem;font-style: italic;">{{ post.date | date: "%a, %b %d, %y" }}</p>
+      <p style="margin-bottom:1rem;padding-left:1rem;"> {{ post.excerpt }} </p>
   {% endfor %}
-</ul>
+</div>
