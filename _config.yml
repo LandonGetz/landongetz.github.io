@@ -5,14 +5,14 @@ permalink:        pretty
 title:            Dr. Landon J. Getz
 tagline:          'Curriculum Vitae'
 description:      'PhD. Soon-to-be-Postdoc. Studying <i>Vibrio</i> species a bunch of different ways.'
-url:              www.landongetz.com
+url:              https://www.landongetz.com
 
 author:
   name:           'Landon J. Getz'
   url:            https://twitter.com/landongetz
 
 # Custom vars
-version:          'August 10th/2022'
+version:          'August 11th/2022'
 
 github:
   repo:           https://github.com/landongetz/landongetz.github.io
