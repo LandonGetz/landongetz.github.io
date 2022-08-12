@@ -1,5 +1,4 @@
 # Permalinks
-permalink:        "/blog/:title"
 relative_permalinks: false
 
 # Setup
@@ -7,6 +6,7 @@ title:            Dr. Landon J. Getz
 tagline:          'Curriculum Vitae'
 description:      'PhD. Soon-to-be-Postdoc. Studying <i>Vibrio</i> species a bunch of different ways.'
 url:              https://www.landongetz.com
+baseurl:          /
 
 author:
   name:           'Landon J. Getz'
