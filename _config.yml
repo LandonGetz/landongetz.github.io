@@ -1,5 +1,6 @@
 # Permalinks
 relative_permalinks: false
+permalink: ":title/"
 
 # Setup
 title:            Dr. Landon J. Getz
