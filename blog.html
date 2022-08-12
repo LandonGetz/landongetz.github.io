@@ -1,0 +1,22 @@
+---
+layout: blog
+page title: Blog
+---
+<h1>
+	Commentary and Blog
+</h1>
+
+<p> Welcome to the blog! This is a collection of published commentaries (where reprinting is allowed) as well as a personal blog. It will be sporadically updated - or more regularly if the time and place are right - to share my thoughts and commentary on various issues related to science and ethics. 
+</p>
+<p>
+Enjoy the ramblings on!
+</p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
