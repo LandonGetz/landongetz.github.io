@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-page title: Landon J Getz 
+title: CV
 scroll: true
 ---
 
