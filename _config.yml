@@ -1,6 +1,6 @@
 # Permalinks
 relative_permalinks: false
-permalink: ":title/"
+permalink: "/:title:year"
 
 # Setup
 title:            Dr. Landon J. Getz
@@ -18,10 +18,6 @@ version:          'August 12th/2022'
 
 github:
   repo:           https://github.com/landongetz/landongetz.github.io
-
-plugins: [jekyll-paginate]
-paginate_path: "/blog/page:num/"
-paginate: 10
 
 lsi: false
 safe: true
