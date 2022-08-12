@@ -23,7 +23,7 @@ paginate: 10
 
 lsi: false
 safe: true
-source: /
+source: https://landongetz.github.io
 incremental: false
 highlighter: rouge
 gist:
