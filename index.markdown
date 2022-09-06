@@ -11,7 +11,7 @@ scroll: true
 ---------
 
 <p style="text-align:center">
-Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologist specializing in <i>Vibrio</i> genetics. Dr. Getz is an award-winning researcher and post-secondary educator, with significant laboratory experience, as well as teaching experience in undergraduate biology, microbiology, and chemistry courses. Landon is an LGBTQ+ advocate and has worked to enhance the equity, diveristy, and inclusion of Science, Technology, Engineering, and Mathematics (STEM) through Queer Atlantic Canadian STEM. Landon is a member of the inaugural Youth Council of the Chief Science Advisor of Canada.
+Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologist specializing in <i>Vibrio</i> genetics. Dr. Getz is an award-winning researcher and post-secondary educator, with significant laboratory experience, as well as teaching experience in undergraduate biology, microbiology, and chemistry courses. Landon is an LGBTQ+ advocate and has worked to enhance the equity, diversity, and inclusion of Science, Technology, Engineering, and Mathematics (STEM) through Queer Atlantic Canadian STEM. Landon is a member of the inaugural Youth Council of the Chief Science Advisor of Canada.
 </p>
 
 
