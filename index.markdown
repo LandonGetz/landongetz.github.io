@@ -17,17 +17,17 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ## <i class="fa-solid fa-users-rectangle"></i> Affiliations
 ---------
-**PhD Candidate** All but Degree, Department of Microbiology and Immunology, Faculty of Medicine, *Dalhousie University*
 
 **Postdoctoral Research Associate**, Department of Biochemistry, Faculty of Medicine, *University of Toronto*
 *   Studying Phage-*Vibrio* interactions in the laboratory of [Dr. Karen Maxwell](http://individual.utoronto.ca/maxwell_lab/)
-*   Effective September 05/2022
+
+**PhD Candidate** All but Degree, Department of Microbiology and Immunology, Faculty of Medicine, *Dalhousie University*
 
 ## <i class="fa-solid fa-school"></i> Education
 ---------
 
 **Ph.D Microbiology and Immunology, _Dalhousie University_**
-*   Graduated 2022
+*   Completed August 31st/2022
 *   2019 Vanier Scholar and 2019 Killam Laureate
 *   Thesis title: Genome-Wide Investigation of *Vibrio parahaemolyticus* Type III Secretion System-1 Regulation and Chitin Metabolism
 
