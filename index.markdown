@@ -316,6 +316,10 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 *   Reviewer at _mSystems_, Springer-Nature, 2020 - Completed 2 Reviews
 *   Reviewer at _Microbiome_, Springer-Nature, 2019 - Completed 1 Review
 
+### Grant Review
+
+*   2023 Peer Review Committee - [Catalyst Grant: Healthy Youth (202211HYI)](https://cihr-irsc.gc.ca/e/53482.html) - Youth Representative Reviewer
+
 ### Pre-print review:
 
 *   PREreview of "Discovery of a prevalent picornavirus by visualizing zebrafish immune responses." [doi.org/10.5281/zenodo.3678334](http://doi.org/10.5281/zenodo.3678334)
@@ -335,7 +339,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ### Governmental:
 
-*   **Youth Council Member, _Office of the Chief Science Advisor, Goverment of Canada._**
+*   **Youth Council Member, _Office of the Chief Science Advisor, Government of Canada._**
     *   February 2020 to _Present_
     *   Act as a youth advisor to Canada's Chief Science Advisor on issues pertaining to my areas of expertise and those that are important to the Atlantic region
 
