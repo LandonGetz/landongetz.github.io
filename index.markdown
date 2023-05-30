@@ -44,7 +44,6 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 **Certificate in Genetics, _Dalhousie University_**
 *   Received June 2017
-
 **High School Diploma, _Medicine Hat High School_**
 *   Received June 2013
 *   First Class Honours
@@ -59,7 +58,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 **<sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.**
 
-0.   **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2022). Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in _Vibrio parahaemolyticus_. Under Revision at Nucleic Acids Research.
+0.   **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2022). [Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in _Vibrio parahaemolyticus_](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad370/7157527). _Nucleic Acids Research_ DOI: [10.1093/nar/gkad370](https://doi.org/10.1093/nar/gkad370).
 0.   Kratzer, K.\*, **Getz, L.J.\***, Peterlini, T, Masson<sup>#</sup>, J-Y, Dellaire, G<sup>#</sup>. (2021) ["Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application."](https://link.springer.com/article/10.1007/s00439-021-02272-5) _Human Genetics_. DOI: [10.1007/s00439-021-02272-5](https://doi.org/10.1007/s00439-021-02272-5)
 0.   **Getz, L.J.**, Dellaire, G.<sup>#</sup> (2020). ["Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."](https://link.springer.com/article/10.1007/s11948-020-00226-0) _Science and Engineering Ethics_. DOI: [10.1007/s11948-020-00226-0](https://doi.org/10.1007/s11948-020-00226-0).
 0.   **Getz, L. J.**, Runté, C., Rainey, J., Thomas, N.A.<sup>#</sup> (2019). ["Tyrosine phosphorylation as a widespread regulatory mechanism in prokaryotes."](https://jb.asm.org/content/201/19/e00205-19) _Journal of Bacteriology_. DOI: [10.1128/JB.00205-19](https://doi.org/10.1128/JB.00205-19)
