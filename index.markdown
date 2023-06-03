@@ -11,7 +11,7 @@ scroll: true
 ---------
 
 <p style="text-align:center">
-Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologist specializing in <i>Vibrio</i> genetics. Dr. Getz is an award-winning researcher and post-secondary educator, with significant laboratory experience, as well as teaching experience in undergraduate biology, microbiology, and chemistry courses. Landon is an LGBTQ+ advocate and has worked to enhance the equity, diversity, and inclusion of Science, Technology, Engineering, and Mathematics (STEM) through Queer Atlantic Canadian STEM. Landon is a member of the inaugural Youth Council of the Chief Science Advisor of Canada.
+Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologist specializing in <i>Vibrio</i> genetics. Dr. Getz is an award-winning researcher and post-secondary educator, with significant laboratory experience, as well as teaching experience in undergraduate biology, microbiology, and chemistry courses. Landon is an LGBTQ+ advocate and has worked to enhance the equity, diversity, and inclusion of Science, Technology, Engineering, and Mathematics (STEM) through Queer Atlantic Canadian STEM. Landon is an alumnus of the inaugural Youth Council of the Chief Science Advisor of Canada.
 </p>
 
 
@@ -69,8 +69,8 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 0.   **Getz, L.J.\***, Finlayson-Trick, E.C.L.\*, Slaine, P.D.\*, Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.<sup>#</sup> (2017). ["Taxonomic differences of gut microbiomes drive cellulolytic enzymatic potential within hind-gut fermenting mammals."](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189404) _PLoS One_. DOI: [https://doi.org/10.1371/journal.pone.0189404](https://doi.org/10.1371/journal.pone.0189404).
 {: reversed="reversed"}
 
-### **Commentaries:**
-
+### **Commentaries and Correspondance:**
+0.   **Getz, L.J<sup>#</sup>**., de Oliveira, B.F.R. & Pérez-López, E. (2023) [We need a Pride in Microbiology Network](https://www.nature.com/articles/s41564-023-01394-y). _Nat Microbiol_. DOI: [https://doi.org/10.1038/s41564-023-01394-y](https://doi.org/10.1038/s41564-023-01394-y)
 0.   Baylis, F., **Getz, L.J.** (2021). [Challenge studies for COVID-19: Now is still not the time](https://blogs.bmj.com/medical-ethics/2021/04/27/challenge-studies-for-covid-19-now-is-still-not-the-time/)_[JME Blog](https://blogs.bmj.com/medical-ethics/)_
 0.   **Getz, L.J.,**, Baylis, F. (2021). [Challenge studies for COVID-19: Now is not the time.](https://blogs.bmj.com/medical-ethics/2021/04/06/challenge-studies-for-covid-19-now-is-not-the-time/)_[JME Blog](https://blogs.bmj.com/medical-ethics/)_
 0.   **Getz, L.J.**, Baylis, F. (2020). [Canada should reject the idea of deliberately infecting vaccine volunteers.](https://policyoptions.irpp.org/magazines/november-2020/canada-should-reject-the-idea-of-deliberately-infecting-vaccine-volunteers/) _[PolicyOptions.ca](https://policyoptions.irpp.org/)_
