@@ -98,19 +98,28 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 {: reversed="reversed"}
 
 ###  **Abstracts:**
-
-0.   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the exsA promoter in _Vibrio parahaemolyticus_, Genomes to Biology: the 8th International Conference on the Biology of _Vibrios_, _McGill University_, Montreal, QC. - November 2019
-0.   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). [A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in _Vibrio parahaemolyticus_](/documents/csm-2019-full_program.pdf), The 69th Annual Conference of the Canadian Society of Microbiologists, _Université de Sherbrooke_, Sherbrooke, QC. - June 2019
-0.   **Getz, L.J.**, Thomas, N.A. (2018). [Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - _Vibrio parahaemolyticus_ - Regulates Virulence](https://lgbtstem.wordpress.com/lgbt-steminar-2019/), LGBTSTEMinar 2019, _Institute of Physics_, London, UK. - January 2019
-0.   **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, _Dalhousie University_, Halifax, NS. - May 2018
-0.   **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). [Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing](http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf), 23rd Annual Infectious Disesase Research Day, _Dalhousie University_, Halifax, NS. - Apr 2018
-0.   **Getz, L.J.**, Thomas, N.A. (2017). HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator _exsA_, _ASM Vibrio2017: The Biology of Vibrios_, Chicago, IL. - November 2017
-0.   **Getz, L.J.**, Thomas, N.A. (2017). [Discovery of a Genetic Switch in _Vibrio parahaemolyticus_ That Contributes to Host Cell Death During Infection](http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf), 22nd Annual Infectious Disease Research Day, _Dalhousie University_, Halifax, NS. - March 2017
-0.   **Getz, L.J.**, Finlayson-Trick, E.C.L.\*, Mostafa Hagar\*, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.[A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform](http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf), Giant Jamboree Abstract Guide, _iGEM Giant Jamboree_, Boston, MA. - October 2016
+0.   Robinson, O., **Getz, L.J.**, Thomas, N.A. {2023}. Transposon Sequencing Identifies a Genetic Paradigm for Chitin Utilization in _Vibrio parahaemolyticus_. 72nd Annual Conference of the Canadian Society of Microbiologists, Halifax, NS.
+0.   **Getz, L.J.**, Maxwell, K.L. {2023}. Understanding the Global Antiphage Defence Arsenal of a Pandemic Foodborne Pathogen. 72nd Annual Conference of the Canadian Society of Microbiologists, Halifax NS.
+0.   **Getz, L.J.**, Maxwell, K.L. {2022}. The Best Defence is a Good Offence: Understanding Antiphage Defence in *V. parahaemolyticus* for more Effective Phage Therapy. 2022 QAtCanSTEM Colloquium, Halifax, NS.
+0.  **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A. (2021). DNA Cruciforms Regulate Virulence in Pathogenic *Vibrio* Species. 70th Annual Conference of the Canadian Society of Microbiologists, Remote.
+0.  **Getz, L.J.**, Thomas. N.A. (2020). Functional genomics of \textit{Vibrio} pathogenesis and environmental persistence. 2020 Canadian Student Health Research Forum, Remote.
+0.   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the exsA promoter in _Vibrio parahaemolyticus_, Genomes to Biology: the 8th International Conference on the Biology of _Vibrios_, _McGill University_, Montreal, QC.
+0.   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). [A DNA junction superstructure regulates Type III Secretion System gene expression and virulence in _Vibrio parahaemolyticus_](/documents/csm-2019-full_program.pdf), The 69th Annual Conference of the Canadian Society of Microbiologists, _Université de Sherbrooke_, Sherbrooke, QC.
+0.   **Getz, L.J.**, Thomas, N.A. (2018). [Flipping the Switch on Bacterial Pathogenesis: How the Leading Cause of Seafood-borne Gastroenteritis - _Vibrio parahaemolyticus_ - Regulates Virulence](https://lgbtstem.wordpress.com/lgbt-steminar-2019/), LGBTSTEMinar 2019, _Institute of Physics_, London, UK.
+0.   **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing, PREP Graduate Student Research Day, _Dalhousie University_, Halifax, NS.
+0.   **Getz, L.J.**, Comeau, A., Langille, M.G.I., Thomas, N.A. (2018). [Linking Phenotype and Pathogen Genomics: Tn-Seq and Next Generation DNA Sequencing](http://centerforvaccinology.ca/wp-content/uploads/2018/03/2018-Research-Day-Handbook-1.pdf), 23rd Annual Infectious Disesase Research Day, _Dalhousie University_, Halifax, NS.
+0.   **Getz, L.J.**, Thomas, N.A. (2017). HlyU and H-NS Act as a Genetic Switch for Transcriptional Control of the Type III Secretion System-I Master Regulator _exsA_, _ASM Vibrio2017: The Biology of Vibrios_, Chicago, IL.
+0.   **Getz, L.J.**, Thomas, N.A. (2017). [Discovery of a Genetic Switch in _Vibrio parahaemolyticus_ That Contributes to Host Cell Death During Infection](http://centerforvaccinology.ca/wp-content/uploads/2016/03/Handbook-10Apr2017.pdf), 22nd Annual Infectious Disease Research Day, _Dalhousie University_, Halifax, NS.
+0.   **Getz, L.J.**, Finlayson-Trick, E.C.L.\*, Mostafa Hagar\*, Slaine, P.D., Thornbury, M., Lamourerux, E., Cook, J., Langille, M.G.I., Murray, L.E., McCormick, C., Rohde, J.R., Cheng, Z.[A ‘spike’ in biofuel production: mining the porcupine microbiome to engineer a softwood feedstock platform](http://2016.igem.org/wiki/images/9/9d/IGEM2016_GiantJamboree_booklet.pdf), Giant Jamboree Abstract Guide, _iGEM Giant Jamboree_, Boston, MA.
 {: reversed="reversed"}
 
 ## <i class="fa-solid fa-person-chalkboard"></i> Invited Talks
 --------
+
+###   **2022 Armand-Frappier Outstanding Graduate Student Award Lecture, _71st Annual Conference of the Canadian Society of Microbiologists_, Guelph, ON - June 2022**
+
+*   Title: Attenuation of DNA Cruciform Structures by a Conserved Regulator Directs VIrulence Gene Expression in Pandemic *Vibrio*
+*   Description:
 
 ###   **2022 Al Downe Memorial Lecture, _Queen's University_, Kingston, ON - March 2022**
 
@@ -138,6 +147,43 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 ------------------------------------
 
 **For Posters: \*Presenting Author**
+
+0. 72nd Annual Conference of the Canadian Society of Microbiologists, Halifax, NS - June 2023.
+    *   Authors: Robinson, O.\*, **Getz, L.J.**, Thomas, N.A. 
+    *   Type: Poster Presentation
+    *   Title: Transposon Sequencing Identifies a Genetic Paradigm for Chitin Utilization in _Vibrio parahaemolyticus_.
+
+0. 72nd Annual Conference of the Canadian Society of Microbiologists, Halifax, NS - June 2023.
+    *   Authors: **Getz, L.J.**\*, Maxwell, K.L. 
+    *   Type: Poster Presentation
+    *   Title:Understanding the Global Antiphage Defence Arsenal of a Pandemic Foodborne Pathogen. 
+
+0. 2022 QAtCanSTEM Colloquium, Halifax, NS - October 2022.
+    *   Authors: **Getz, L.J.**\*, Maxwell, K.L. 
+    *   Type: Poster Presentation
+    *   Title: The Best Defence is a Good Offence: Understanding Antiphage Defence in _V. parahaemolyticus_ for more Effective Phage Therapy.
+
+0. 70th Annual Conference of the Canadian Society of Microbiologists, _University of Guelph_, Guelph, ON - June 2021
+    *   Type: Oral Presentation
+    *   Title: DNA Cruciforms Regulate Virulence Gene Expression in Pathogenic _Vibrio_ Species.
+    *   **Awarded the 2021 Canadian College of Microbiologists Symposium Award.**
+
+0.  Canadian Science Policy Conference, _University of Ottawa_, Ottawa, QC - October 2020.
+    *   Type: Oral Presentation and Roundtable
+    *   Title: Build Back Better: The Chief Science Advisor's Youth Council's Roundtables to Envision a Post-Pandemix Future in the Canadian Science Community.
+
+0.  Canadian Student Health Research Forum, _University of Manitoba_, Regina, MB - August 2020.
+    *   Type: Oral Presentation
+    *   Title:  Functional genomics of *Vibrio* pathogenesis and environmental persistence.
+    *   **Awarded a CIHR Silver Award**
+
+0.  70th Annual Conference of the Canadian Society of Microbiologists, _Remote_- June 2020
+    *   Type: Oral Presentation
+    *   Title: A DNA Cruciform Structure Regulates Virulence Gene Expression in Human Pathogenic _Vibrio_ species.
+
+0. Professional Research and Education Program Graduate Student Research Day, _Dalhousie University_, Halifax, NS - May 2020
+    *   Type: Oral Presentation
+    *   Title: A Regulator of Sugar Metabolism Implicated in the Secretion and Virulence of _Vibrio parahaemolyticus_.
 
 0.  Genomes to Biology: The 8th International Conference on the Biology of _Vibrios_, _McGill University_, Montreal, QC - November 2019
     *   Type: Oral Presentation
@@ -272,7 +318,8 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ## <i class="fa-solid fa-award"></i> Awards:
 -------
-
+*   2023 GSK EPIC Convergence Postdoctoral Fellowship in Antimicrobial Resistance (2 Years) - [EPIC](https://epic.utoronto.ca) - $120,000 CAD Award
+*   2023 CIHR Postdoctoral Fellowship (3 Years) - Canadian Institutes of Health Research - $120,000 CAD Award
 *   [2022 Design2Learn (D2L) Innovation Award in Teaching and Learning](/documents/STLHE_D2L-2022-Press-Release_FINAL.pdf) - STLHE - $3000 CAD Award to Team
 *   2022 Armand-Frappier Outstanding Graduate Student Award - Canadian Society of Microbiologists - $500 CAD Award
 *   2021 CSM Student Symposium Award - Sponsored by the Canadian College of Microbiologists - $500 CAD Award
@@ -332,13 +379,13 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 *   PREreview of "A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing." [http://doi.org/10.5281/zenodo.3756962](http://doi.org/10.5281/zenodo.3756962)
 
 
-### Conference Planning
+### Conference Planning <UPDATE THIS TO INCLUDE INFECTIOUS DISEASE RESEARCH DAY>
 
 *   2022 QAtCanSTEM Colloquium
 *   2021 QAtCanSTEM Colloquium and Research Showcase (Remote via [Hopin](https://www.hopin.com))
 *   2020 QAtCanSTEM Colloquium (In-Person), Dalhousie University
 
-### Governmental:
+### Governmental: <UPDATE NSERC AND CIHR WORK>
 
 *   **Youth Council Member, _Office of the Chief Science Advisor, Government of Canada._**
     *   February 2020 to _Present_

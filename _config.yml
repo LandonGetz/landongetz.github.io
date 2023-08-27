@@ -6,7 +6,6 @@ permalink: "/:title:year"
 title:            Dr. Landon J. Getz
 tagline:          'Curriculum Vitae'
 description:      '🏳️‍🌈 PhD. Research Scientist studying <i>Vibrio</i> species, with a keen interest in science ethics and policy.'
-url:              https://www.landongetz.com
 baseurl:          /
 
 author:
@@ -16,12 +15,9 @@ author:
 # Custom vars
 version:          'August 12th/2022'
 
-github:
-  repo:           https://github.com/landongetz/landongetz.github.io
-
 lsi: false
 safe: true
-source: /
+source: ./
 incremental: false
 highlighter: rouge
 gist:
