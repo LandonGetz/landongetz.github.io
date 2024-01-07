@@ -379,13 +379,13 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 *   PREreview of "A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing." [http://doi.org/10.5281/zenodo.3756962](http://doi.org/10.5281/zenodo.3756962)
 
 
-### Conference Planning <UPDATE THIS TO INCLUDE INFECTIOUS DISEASE RESEARCH DAY>
+### Conference Planning
 
 *   2022 QAtCanSTEM Colloquium
 *   2021 QAtCanSTEM Colloquium and Research Showcase (Remote via [Hopin](https://www.hopin.com))
 *   2020 QAtCanSTEM Colloquium (In-Person), Dalhousie University
 
-### Governmental: <UPDATE NSERC AND CIHR WORK>
+### Governmental:
 
 *   **Youth Council Member, _Office of the Chief Science Advisor, Government of Canada._**
     *   February 2020 to _Present_
