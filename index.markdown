@@ -19,9 +19,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 ---------
 
 **Postdoctoral Research Associate**, Department of Biochemistry, Faculty of Medicine, *University of Toronto*
-*   Studying Phage-*Vibrio* interactions in the laboratory of [Dr. Karen Maxwell](http://individual.utoronto.ca/maxwell_lab/)
-
-**PhD Candidate** All but Degree, Department of Microbiology and Immunology, Faculty of Medicine, *Dalhousie University*
+*   Studying Phage-*Vibrio* interactions in the laboratory of [Dr. Karen Maxwell](https://www.themaxwelllab.com/)
 
 ## <i class="fa-solid fa-school"></i> Education
 ---------
@@ -44,12 +42,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 **Certificate in Genetics, _Dalhousie University_**
 *   Received June 2017
-**High School Diploma, _Medicine Hat High School_**
-*   Received June 2013
-*   First Class Honours
-*   Awarded Alexander Rutherford Scholarship - $2,500 Award
 
-  
 
 ## <i class="fa-solid fa-book"></i> Publications
 ---------
@@ -58,6 +51,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 **<sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.**
 
+0.   **Getz, L.J.**, Maxwell, K.L. (2023) Diverse anti-phage defences are widespread among prophages and mobile genetic elements. *Accepted at Annual Reviews of Virology.*
 0.   **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2023). [Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in _Vibrio parahaemolyticus_](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad370/7157527). _Nucleic Acids Research_ DOI: [10.1093/nar/gkad370](https://doi.org/10.1093/nar/gkad370).
 0.   Kratzer, K.\*, **Getz, L.J.\***, Peterlini, T, Masson<sup>#</sup>, J-Y, Dellaire, G<sup>#</sup>. (2021) ["Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application."](https://link.springer.com/article/10.1007/s00439-021-02272-5) _Human Genetics_. DOI: [10.1007/s00439-021-02272-5](https://doi.org/10.1007/s00439-021-02272-5)
 0.   **Getz, L.J.**, Dellaire, G.<sup>#</sup> (2020). ["Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."](https://link.springer.com/article/10.1007/s11948-020-00226-0) _Science and Engineering Ethics_. DOI: [10.1007/s11948-020-00226-0](https://doi.org/10.1007/s11948-020-00226-0).
@@ -116,10 +110,16 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 ## <i class="fa-solid fa-person-chalkboard"></i> Invited Talks
 --------
 
+###   **2nd Annual Antimicrobial Resistance Symposium, _Emerging and Pandemic Infections Consortium_, Toronto, ON - November 2023**
+*   Title: Phage Therapy: Solutions in a Post-Antibiotic Era
+*   Description: High level overview of the history and current knowledge surrounding phage therapy in Canada, to a broad audience of academics and clinician scientists.
+
+###   2023 Connell Award for Best All Round Post Doctoral Fellow Award Lecture, _2023 Annual Biochemsitry Retreat_, Toronto, ON - October 2023
+*   Description: Overview of the work I have been conducting under Dr. Karen Maxwell's supervision in the first year of my postdoc.
+
 ###   **2022 Armand-Frappier Outstanding Graduate Student Award Lecture, _71st Annual Conference of the Canadian Society of Microbiologists_, Guelph, ON - June 2022**
 
-*   Title: Attenuation of DNA Cruciform Structures by a Conserved Regulator Directs VIrulence Gene Expression in Pandemic *Vibrio*
-*   Description:
+*   Title: Attenuation of DNA Cruciform Structures by a Conserved Regulator Directs Virulence Gene Expression in Pandemic *Vibrio*
 
 ###   **2022 Al Downe Memorial Lecture, _Queen's University_, Kingston, ON - March 2022**
 
@@ -318,6 +318,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ## <i class="fa-solid fa-award"></i> Awards:
 -------
+*   2023 Connell Award for Best All Round Post Doctoral Fellow - Department of Biochemistry, University of Toronto - $500 Award
 *   2023 GSK EPIC Convergence Postdoctoral Fellowship in Antimicrobial Resistance (2 Years) - [EPIC](https://epic.utoronto.ca) - $120,000 CAD Award
 *   2023 CIHR Postdoctoral Fellowship (3 Years) - Canadian Institutes of Health Research - $120,000 CAD Award
 *   [2022 Design2Learn (D2L) Innovation Award in Teaching and Learning](/documents/STLHE_D2L-2022-Press-Release_FINAL.pdf) - STLHE - $3000 CAD Award to Team
@@ -359,6 +360,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ### Scientific Peer Review:
 
+*   Reviewer at _Nature Reviews Genetics_, Springer-Nature, 2023 - Completed 1 Co-review with Dr. Maxwell
 *   Reviewer at _Microbiome_, Springer-Nature, 2022 - Completed 1 Review
 *   Reviewer at _Microbiome_, Springer-Nature, 2020 - Completed 2 Reviews
 *   Reviewer at _mSystems_, Springer-Nature, 2020 - Completed 2 Reviews
@@ -381,14 +383,20 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ### Conference Planning
 
+*   2022 ID/CCfV Research Day
 *   2022 QAtCanSTEM Colloquium
+*   2021 Infectious Disease/Canadian Centre for Vaccinology (CCfV) Research Day
 *   2021 QAtCanSTEM Colloquium and Research Showcase (Remote via [Hopin](https://www.hopin.com))
 *   2020 QAtCanSTEM Colloquium (In-Person), Dalhousie University
 
 ### Governmental:
 
+*   **Youth Council Mentor, _Office of the Chief Science Advisor, Government of Canada._**
+    *   September 2023 to _Present_
+    *   Act as an advisor to the 2nd Youth Council of the Chief Science Advisor
+
 *   **Youth Council Member, _Office of the Chief Science Advisor, Government of Canada._**
-    *   February 2020 to _Present_
+    *   February 2020 to February 2023
     *   Act as a youth advisor to Canada's Chief Science Advisor on issues pertaining to my areas of expertise and those that are important to the Atlantic region
 
 ### Society:
@@ -397,9 +405,9 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
     *   January 2022 - _Present_
 
 ### Institutional:
-
+*   **Founder, Pride in Microbiology Network.**
 *   **Founder, Queer Atlantic Canadian STEM.**
-    *   July 2019 - _Present_
+    *   July 2019 - September 2022
     *   QAtCanSTEM functions for three main objectives:
         1.  To build community for Queer folks in STEM across Atlantic Canada
         2.  To profile Queer folks in STEM across Atlantic Canada as a means to identify mentors and aid visibility
@@ -426,6 +434,7 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 ## <i class="fa-solid fa-radio"></i> Media
 -----
 
+*   [EPIC](https://epic.utoronto.ca/). [Landon J. Getz receives inaugural GSK EPIC Convergence Postdoctoral Fellowship in Antimicrobial Resistance](https://epic.utoronto.ca/landon-j-getz-receives-inaugural-gsk-epic-convergence-postdoctoral-fellowship-in-antimicrobial-resistance/). June 15th, 2023.
 *   [Dal News](https://www.dal.ca/news.html). [Making science a better place: Student‑led group expands efforts to create community for LGBTQ+ in STEM](https://www.dal.ca/news/2021/08/18/pride-stem.html). August 18th, 2021.
 *   [Dal News](https://www.dal.ca/news.html). [Excellence in education: Meet this year’s Dalhousie teaching award winners](https://www.dal.ca/news/2021/06/23/meet-this-year-s-dalhousie-teaching-award-winners.html)
 [](https://www.dal.ca/news/2021/06/23/meet-this-year-s-dalhousie-teaching-award-winners.html)*   [](https://www.dal.ca/news/2021/06/23/meet-this-year-s-dalhousie-teaching-award-winners.html)[Simcoe Reformer](https://www.simcoereformer.ca/). [Why deliberately infecting healthy young volunteers with COVID-19 virus can be done ethically.](https://www.simcoereformer.ca/health/why-its-ethical-to-deliberately-infect-healthy-young-volunteers-with-covid-19-virus-to-end-pandemic-sooner/wcm/00aee291-2352-4e50-b3f0-f03ab4933c2d?video_autoplay=true) October 22, 2020.
