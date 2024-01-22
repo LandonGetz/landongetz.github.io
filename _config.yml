@@ -1,13 +1,12 @@
 # Permalinks
 relative_permalinks: false
-permalink: "/:title:year"
+permalink: "pretty"
 
 # Setup
 title:            Dr. Landon J. Getz
 tagline:          'Curriculum Vitae'
 description:      '🏳️‍🌈 PhD. Research Scientist studying <i>Vibrio</i> species, with a keen interest in science ethics and policy.'
-url:              https://www.landongetz.com
-baseurl:          /
+baseurl:          https://www.landongetz.com/
 
 author:
   name:           'Landon J. Getz'
@@ -16,12 +15,9 @@ author:
 # Custom vars
 version:          'August 12th/2022'
 
-github:
-  repo:           https://github.com/landongetz/landongetz.github.io
-
 lsi: false
 safe: true
-source: /
+source: ./
 incremental: false
 highlighter: rouge
 gist:
