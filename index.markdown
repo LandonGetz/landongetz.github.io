@@ -51,7 +51,8 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 **<sup>*</sup>Authors contributed equally to the work, <sup>#</sup>Corresponding Author.**
 
-0.   **Getz, L.J.**, Maxwell, K.L. (2023) Diverse anti-phage defences are widespread among prophages and mobile genetic elements. *Accepted at Annual Reviews of Virology.*
+0. **Getz, L.J.**, Maxwell, K.L.<sup>#</sup> (2024). Diverse anti-phage defences are widespread among prophages and mobile genetic elements. *Accepted, Annual Reviews of Virology*.
+0. Patel, P.H., Taylor, V.L., Zhang, C., **Getz, L.J**, Fitzpatrick, A.D., Davidson, A.R., Maxwell, K.L.<sup>#</sup> (2024). Anti-phage defence through inhibition of virion assembly. *Nature Communications*. DOI: 10.1038/s41467-024-45892
 0.   **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A.<sup>#</sup> (2023). [Attenuation of a DNA Cruciform by a Conserved Regulator Directs T3SS-1 mediated virulence in _Vibrio parahaemolyticus_](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad370/7157527). _Nucleic Acids Research_ DOI: [10.1093/nar/gkad370](https://doi.org/10.1093/nar/gkad370).
 0.   Kratzer, K.\*, **Getz, L.J.\***, Peterlini, T, Masson<sup>#</sup>, J-Y, Dellaire, G<sup>#</sup>. (2021) ["Addressing the dark matter of gene therapy: technical and ethical barriers to clinical application."](https://link.springer.com/article/10.1007/s00439-021-02272-5) _Human Genetics_. DOI: [10.1007/s00439-021-02272-5](https://doi.org/10.1007/s00439-021-02272-5)
 0.   **Getz, L.J.**, Dellaire, G.<sup>#</sup> (2020). ["Back to Basics: Application of the 4-principle approach to bioethics to heritable genome editing."](https://link.springer.com/article/10.1007/s11948-020-00226-0) _Science and Engineering Ethics_. DOI: [10.1007/s11948-020-00226-0](https://doi.org/10.1007/s11948-020-00226-0).
@@ -93,8 +94,8 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ###  **Abstracts:**
 0.   Robinson, O., **Getz, L.J.**, Thomas, N.A. {2023}. Transposon Sequencing Identifies a Genetic Paradigm for Chitin Utilization in _Vibrio parahaemolyticus_. 72nd Annual Conference of the Canadian Society of Microbiologists, Halifax, NS.
-0.   **Getz, L.J.**, Maxwell, K.L. {2023}. Understanding the Global Antiphage Defence Arsenal of a Pandemic Foodborne Pathogen. 72nd Annual Conference of the Canadian Society of Microbiologists, Halifax NS.
-0.   **Getz, L.J.**, Maxwell, K.L. {2022}. The Best Defence is a Good Offence: Understanding Antiphage Defence in *V. parahaemolyticus* for more Effective Phage Therapy. 2022 QAtCanSTEM Colloquium, Halifax, NS.
+0.   **Getz, L.J.**, Maxwell, K.L. (2023). Understanding the Global Antiphage Defence Arsenal of a Pandemic Foodborne Pathogen. 72nd Annual Conference of the Canadian Society of Microbiologists, Halifax NS.
+0.   **Getz, L.J.**, Maxwell, K.L.(2022). The Best Defence is a Good Offence: Understanding Antiphage Defence in *V. parahaemolyticus* for more Effective Phage Therapy. 2022 QAtCanSTEM Colloquium, Halifax, NS.
 0.  **Getz, L.J.**, Brown, J.M., Sobot, L., Chow, A., Mahendrarajah, J., Thomas, N.A. (2021). DNA Cruciforms Regulate Virulence in Pathogenic *Vibrio* Species. 70th Annual Conference of the Canadian Society of Microbiologists, Remote.
 0.  **Getz, L.J.**, Thomas. N.A. (2020). Functional genomics of \textit{Vibrio} pathogenesis and environmental persistence. 2020 Canadian Student Health Research Forum, Remote.
 0.   **Getz, L.J.**, Brown, J., Thomas, N.A. (2019). Type III Secretion System Gene Expression and Virulence is Regulated by a DNA Cruciform Structure at the exsA promoter in _Vibrio parahaemolyticus_, Genomes to Biology: the 8th International Conference on the Biology of _Vibrios_, _McGill University_, Montreal, QC.
