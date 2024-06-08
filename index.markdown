@@ -319,11 +319,12 @@ Dr. Landon J. Getz (He/Him, PhD) is a Gay/Queer man and a molecular bacteriologi
 
 ## <i class="fa-solid fa-award"></i> Awards:
 -------
+*   [2024 Senior Gray-Doolittle Award for Research Excellence](https://icgenomics.ca/congratulations-to-icg-trainees-sari-matar-landon-getz-and-brent-robicheau-winners-of-the-2024-gray-doolittle-awards-for-research-excellence/) - Institute for Comparative Genomics, Dalhousie University - $300 Award
 *   2023 Connell Award for Best All Round Post Doctoral Fellow - Department of Biochemistry, University of Toronto - $500 Award
 *   2023 GSK EPIC Convergence Postdoctoral Fellowship in Antimicrobial Resistance (2 Years) - [EPIC](https://epic.utoronto.ca) - $120,000 CAD Award
 *   2023 CIHR Postdoctoral Fellowship (3 Years) - Canadian Institutes of Health Research - $120,000 CAD Award
 *   [2022 Design2Learn (D2L) Innovation Award in Teaching and Learning](/documents/STLHE_D2L-2022-Press-Release_FINAL.pdf) - STLHE - $3000 CAD Award to Team
-*   2022 Armand-Frappier Outstanding Graduate Student Award - Canadian Society of Microbiologists - $500 CAD Award
+*   [2022 Armand-Frappier Outstanding Graduate Student Award](https://csm-scm.org/awards/armand-frappier-outstanding-student-award/) - Canadian Society of Microbiologists - $500 CAD Award
 *   2021 CSM Student Symposium Award - Sponsored by the Canadian College of Microbiologists - $500 CAD Award
 *   2021 Educational Leadership Award for Collaborative Teaching
 *   2020 CIHR Silver Award at Canadian Student Health Research Forum Poster Presentation Awards - $250 CAD Award

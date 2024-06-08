@@ -1,3 +1,5 @@
+site: Landon J. Getz - Blog
+creator: Landon J. Getz
 # Permalinks
 relative_permalinks: false
 permalink: "pretty"
@@ -6,7 +8,7 @@ permalink: "pretty"
 title:            Dr. Landon J. Getz
 tagline:          'Curriculum Vitae'
 description:      '🏳️‍🌈 PhD. Research Scientist studying <i>Vibrio</i> species, with a keen interest in science ethics and policy.'
-baseurl:          https://www.landongetz.com/
+baseurl:          https://landongetz.com/
 
 author:
   name:           'Landon J. Getz'
@@ -25,3 +27,5 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+twitter_username: landongetz
